@@ -1,0 +1,4 @@
+C:/Users/Vlad/SysProg/build/CMakeFiles/calculator.dir
+C:/Users/Vlad/SysProg/build/CMakeFiles/main.dir
+C:/Users/Vlad/SysProg/build/CMakeFiles/edit_cache.dir
+C:/Users/Vlad/SysProg/build/CMakeFiles/rebuild_cache.dir

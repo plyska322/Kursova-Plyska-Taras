@@ -1,0 +1,6 @@
+# ninja log v6
+7	269	7570111471359052	CMakeFiles/main.dir/src/main.cpp.obj	6f9c694aca390b16
+3	271	7570111471329119	CMakeFiles/calculator.dir/src/calculator.cpp.obj	7c8ac162a5293101
+271	372	7570111474940179	libcalculator.dll	379865cd021cb322
+271	372	7570111474940179	libcalculator.dll.a	379865cd021cb322
+372	471	7570111475010095	main.exe	64ad97ade1f8579a
